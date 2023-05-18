@@ -8,15 +8,18 @@ The program will then enter a main game loop, which continually checks for event
 To exit the program, simply click the "X" button in the top right corner of the window. This will generate a pygame.QUIT event, which will cause the program to exit the main game loop and terminate.
 
 ### **Example 2/3/4:  Drawing and Graphics**
-1. Drawing Objects
+1. Drawing Objects:
+
 This program demonstrates how to draw shapes on the screen, including lines, circles, and rectangles. The program creates a window with a blue background and draws several shapes in different colors and sizes.
 To exit the program, simply click the "X" button in the top right corner of the window. This will generate a pygame.QUIT event, which will cause the program to exit the main game loop and terminate.
 
-2. Blitting Images
+2. Blitting Images:
+
 This program demonstrates how to load and blit images on the screen. The program creates a window with two dragon images and a line in between them. The dragons face each other and the line separates them.
 To exit the program, simply click the "X" button in the top right corner of the window. This will generate a pygame.QUIT event, which will cause the program to exit the main game loop and terminate.
 
-3. Blitting Text
+3. Blitting Text:
+
 This program demonstrates how to render and blit text on the screen using different fonts. The program creates a window with two text strings in different fonts and colors.
 To exit the program, simply click the "X" button in the top right corner of the window. This will generate a pygame.QUIT event, which will cause the program to exit the main game loop and terminate.
 
