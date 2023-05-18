@@ -40,9 +40,9 @@ This Pygame example demonstrates how to detect collisions between two objects an
 Use the arrow keys to move the dragon around the screen. The goal is to collect as many coins as possible by colliding with them. Each time the dragon collides with a coin, it will disappear and reappear at a random location on the screen.
 
 ## **Requirements**
-Python 3.x
-Pygame library
-The image files, fonts and audios used in the programs 
+1. Python 3.x
+2. Pygame library
+3. The image files, fonts and audios used in the programs 
 
 ## **Contributing**
 If you would like to contribute to the programs, you can do so by:
