@@ -1,6 +1,9 @@
 # **Pygame**
 This repository contains nine Pygame examples that demonstrate different aspects of Pygame game development. Each example is contained in a separate Python file and can be run independently.
 
+## **Getting Started**
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 ### **Example 1: Hello World**
 This is a simple Pygame program that displays a window and prints out any events that occur.
 When you run the program, it will create a window with the title "Hello World". The window will be 600 pixels wide and 300 pixels tall.
@@ -42,7 +45,7 @@ Use the arrow keys to move the dragon around the screen. The goal is to collect 
 ## **Requirements**
 1. Python 3.x
 2. Pygame library
-3. The image files, fonts and audios used in the programs 
+3. The image files, fonts and audios used in the program
 
 ## **Contributing**
 If you would like to contribute to the programs, you can do so by:
